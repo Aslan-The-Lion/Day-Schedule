@@ -19,7 +19,7 @@
 - WHEN I refresh the page
 - THEN the saved events persist
 
-##links 
+## links 
 deployed page:https://aslan-the-lion.github.io/Day-Schedule/
 
 Repository:https://github.com/Aslan-The-Lion/Day-Schedule 
